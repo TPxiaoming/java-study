@@ -1,4 +1,8 @@
 package com.xiaoming.day05;
+
+import com.xiaoming.day05.future.Data;
+import com.xiaoming.day05.future.FutureClient;
+
 /**
  * @Author:         xiaoming
  * @CreateDate:     2019/6/19 21:23

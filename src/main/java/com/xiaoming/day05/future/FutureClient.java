@@ -1,4 +1,4 @@
-package com.xiaoming.day05;
+package com.xiaoming.day05.future;
 
 public class FutureClient {
 
